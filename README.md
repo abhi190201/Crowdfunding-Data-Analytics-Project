@@ -13,8 +13,3 @@ This project analyzes a global crowdfunding dataset to identify drivers of campa
 * **Time Normalization:** Converted Unix timestamps into natural dates.
 * **Custom Financial Calendar:** Built a reporting model starting in April (Fiscal Year logic).
 * **Success Metrics:** Calculated success rates by category, location, and funding goal ranges.
-
-## 📁 Files in this Repository
-* `Crowdfunding_DB.sql`: Full MySQL script for database creation and analysis.
-* `Crowdfunding_Dashboard.pbix`: Power BI Dashboard file.
-* `Crowdfunding_Analysis.twbx`: Tableau Packaged Workbook.
